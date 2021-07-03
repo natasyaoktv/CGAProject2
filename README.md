@@ -9,6 +9,7 @@ To create this program, we need to consider several elements. The background, sp
 This program was created to fulfill the second programming assignment in Computer Graphics and Animation class of President University and was created in approximately 2 weeks from April to May 2021.
 
 Created by:
-Natasya Oktaviani Susanto (001201900024)
-Renaldo Fareza Tambunan (001201900084)
-Samuel (001201900005)
+
+Natasya Oktaviani Susanto(001201900024)
+Renaldo Fareza Tambunan(001201900084)
+Samuel(001201900005)
